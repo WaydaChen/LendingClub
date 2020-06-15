@@ -32,17 +32,18 @@ The EDA has uncovered a few obstacles to my analysis and modeling:<br>
 
 To sum it up, this dataset presents a set of challenges of a real life dataset, where predicting the outcome, data cleaning and categorization, and modeling requires experimentation and effort.
 
-<img src="Images/LoanStatus_byVolume.png" width="250"> 
+<p align="center">
+    <img src="Images/LoanStatus_byVolume.png" width="250">
+</p>
 
-
-<img src="Images/PurposeByVolume_histogram.png" width="550">
-
+<p align="center">
+    <img src="Images/PurposeByVolume_histogram.png" width="550">
+</p>
 
 ![Tableau_6](./Images/EDA_tableau_6.png)
 
-
 ![StateVolume](./Images/VolumeByState_tableau.png)
-Note: some charts were created with Tableau Public.
+Note: some charts were created with Tableau Public
 
 ### Modeling and Evaluation
 1) Defining target variable for the model <br>
