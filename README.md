@@ -80,5 +80,5 @@ num_actv_rev_tl - Number of currently active revolving trades<br>
 This project has identified the main drivers of loan performance. We've achieved a fairly high accuracy score, though ideally it would be desirable to beat the baseline with somewhat higher margin. Because this model can predict a good/bad loan performance with 98.29% accuracy, an investor making a loan decision can better understand the expected risk and the key factors impacting a healthy loan performance. This, combined with an additional diversification features (an investor can spread out their money across multiple loans (the min amount per note is 25 dollars) within LendingClub, helps investors further diversify the risk. An individual looking to step into the shoes of an investor with LendingClub can use this model to help evaluate their decision. 
 
 Next steps for project improvement: 
-- Proceed with additional modelling to attempt to achieve an even higher higher accuracy, the close to 100% the better
+- Proceed with additional modelling to attempt to achieve an even higher accuracy, beating 98.29% and getting closer to 100%
 - Pulling a larger dataset to get a deeper look at the key features and the model
