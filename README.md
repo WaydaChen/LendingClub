@@ -2,9 +2,9 @@
 
 ### Problem Statement
 
-The goal of this project is to analyze the LendingClub dataset and help investors make decisions on loan applications. We want to figure out whether a loan would last and what factors, at the time the loan is issued, have the most impact on a loan's longevity and potential to be paid off in oppose to a loan default (or charged-off). Understanding what factors affect the current status of a loan the most, would help investors make better decisions and pay closer attention to the most impactful features.
+The goal of this project is to analyze the LendingClub dataset and help investors make decisions on loan applications. We want to figure out whether a loan would last and what factors, at the time a loan is issued, have the most impact on its longevity and potential to be paid off in oppose to a loan default (or charged-off). Understanding what features affect the current status of a loan would help investors make better decisions and pay closer attention to the most impactful features.
 
-The LC Data Dictionary can be found here (LCDataDictionary.xlsx). We will deep dive into the data dictionary and carefully review the data elements in order to identify the fields that are available to investors at the time of origination, and thus would be meaningful for our analysis and modeling.
+The LC Data Dictionary can be found here (LCDataDictionary.xlsx). We will deep dive into the data dictionary and review the data elements in order to identify the fields that are available to investors at the time of origination, and thus would be meaningful for our analysis and modeling.
 
 
 **The goal of this project:** 
